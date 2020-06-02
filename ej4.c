@@ -1,4 +1,7 @@
 
+/*Implemente la función recursiva Bisection(f, a, b) que retorne el único cero de la función continua f sobre el intervalo [a, b]. 
+    Puede considerar que el caso base se presenta cuando el intervalo a evaluar tiene una longitud menor que epsilon=0.001*/
+
 #include<stdio.h>
 double epsilon = 0.0001;
 double c;
