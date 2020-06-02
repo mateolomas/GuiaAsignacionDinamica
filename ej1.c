@@ -1,4 +1,6 @@
-
+/*Implemente una función applyN que reciba tres parámetros: 
+(a) una función f: R-> R, (b) un número x, y (c) un entero N. La función debe retornar el valor f(f(f(f(…(x)…)))), 
+donde f es aplicada N veces sobre el parámetro x. Utilice applyN para verificar las siguientes aproximaciones*/
 
 #include <stdio.h>
 #include <math.h>
